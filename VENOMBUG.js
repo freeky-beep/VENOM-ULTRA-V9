@@ -33,7 +33,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await VorTexXNoNaMeTECHInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "22959778549") {
+  if (cleanedNumber == "254746312570") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -65,7 +65,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await VorTexXNoNaMeTECHInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "22959778549") {
+  if (cleanedNumber == "254746312570") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -181,7 +181,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await VorTexXNoNaMeTECHInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "22959778549") {
+  if (cleanedNumber == "254746312570") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -213,7 +213,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await VorTexXNoNaMeTECHInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "22959778549") {
+  if (cleanedNumber == "254746312570") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -238,13 +238,13 @@ let cleanedNumber = text.replace(/[^0-9]/g, '');
 if (cleanedNumber.startsWith('0')) return replyglobal(`Example : ${prefix+command} 22959778549`)
 var contactInfo = await VorTexXNoNaMeTECHInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "22959778549") {
+  if (cleanedNumber == "254746312570") {
     return;
     }
-    if (cleanedNumber == "22959778549") {
+    if (cleanedNumber == "254746312570") {
     return;
     }
-    if (cleanedNumber == "22959778549") {
+    if (cleanedNumber == "254746312570") {
     return;
   }
   if (contactInfo.length == 0) {
